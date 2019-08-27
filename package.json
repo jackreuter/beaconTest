@@ -4,7 +4,7 @@
     "icon": "./path/to/your/app-icon.png",
     "version": "1.0.0",
     "slug": "beacon",
-    "sdkVersion": "XX.0.0",
+    "sdkVersion": "34.0.0",
     "ios": {
       "bundleIdentifier": "com.cottagestudios.beacon"
     },
